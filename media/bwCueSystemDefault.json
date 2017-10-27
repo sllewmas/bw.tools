@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "bw.cueSystem[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"dtb-store" : [ 50 ],
+					"velDial-store" : [ 45 ],
+					"showTriggerNumber-stored" : [ 32 ],
+					"showNoteTriggerNumber-stored" : [ 60 ],
+					"showCcTriggerNumber-stored" : [ 37 ],
+					"keyTriggerOn-stored" : [ 1 ],
+					"noteTriggerOn-stored" : [ 0 ],
+					"ccTriggerOn-stored" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

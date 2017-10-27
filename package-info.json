@@ -1,0 +1,41 @@
+{
+	"author" : "Chris Biggs & Sam Wells",
+	"authors" : [ ],
+	"description" : "Examples of useful integration of Javascript in Max",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "bw.tools-overview.maxpat",
+	"max_version_max" : "none",
+	"max_version_min" : "7.0",
+	"name" : "bw.tools",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "10.7.x"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "none"
+		}
+
+	}
+,
+	"package_extra" : 	{
+
+	}
+,
+	"tags" : [ ],
+	"version" : "1.0",
+	"website" : "",
+	"filelist" : 	{
+		"patchers" : ["bw.countEvents.maxpat", "bw.randomRange.maxpat", "bw.cueSystem.maxpat", "bw.randomRangeMetro.maxpat", "bw.drunkMetro.maxpat", "bw.scaleExp.maxpat", "bw.playlister.maxpat", "bw.snake.maxpat", "bw.polyTarget.maxpat", "bw.weights.maxpat", "bw.polyTargetDefer.maxpat", "mindB.maxpat" ],
+		"media" : ["1DIS.wav", "bwCueSystemDefault.json", "2DIS.wav", "savedPresetbwCueSystem.json", "3DIS.wav", "withCollMessages.txt"  ],
+		"extras" : ["bw.tools-overview.maxpat"],
+		"help" : ["bw.countEvents.maxhelp", "bw.randomRange.maxhelp", "bw.cueSystem.maxhelp", "bw.randomRangeMetro.maxhelp", "w.drunkMetro.maxhelp", "bw.scaleExp.maxhelp", "bw.playlister.maxhelp", "bw.snake.maxhelp", "bw.polyTarget.maxhelp", "bw.weights.maxhelp", "bw.polyTargetDefer.maxhelp "],
+		"javascript" : ["automatedMessages.js", "bw.polyTargetInddB.js", "bw.countEvents.js", "bw.polyTargetLis.js", "bw.countEventsGen.js", "bw.polyTargetLisdB.js", "bw.cueSystem.js", "bw.randomRange.js", "bw.drunkMetro.js", "bw.randomRangeMetro.js", "bw.generateRandomRangeObjects.js", "bw.scaleExp.js", "bw.playlister.js", "bw.snake.js", "bw.polyTarget.js", "bw.weights.js", "bw.polyTargetAll.js", "bw.weightsGen.js", "bw.polyTargetAlldB.js", "mtopc.js", "bw.polyTargetDeferObjectGen.js", "pitch-to-speed.js", "bw.polyTargetInd.js"]
+		
+	}
+
+}
