@@ -1,0 +1,5 @@
+{
+	"name" : "bw.tools",
+	"type" : "filelist",
+	"contents" : [ "bw.cuesystem.maxsnip"]
+}
